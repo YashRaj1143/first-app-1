@@ -1,0 +1,37 @@
+*{margin: 0; padding: 0;
+box-sizing: border-box;}
+.M1{
+    width: 75%; margin: 50px auto;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 100px 140px 150px 100px 90px ;
+}
+.d1{background: chartreuse;}
+.d2{background: cadetblue;}
+.d3{background:chocolate;}
+.d4{background: cornsilk;}
+.d5{background: cornflowerblue;}
+.d6{background: cyan;}
+.d7{background: crimson;}
+.d8{background: darkcyan}
+.d9{background: darkgray;}
+.d10{background: darkgreen;}
+.d11{background: darkkhaki;}
+.d12{background: darkmagenta;}
+.d13{background: darkred;}
+.d14{background: darkslateblue;}
+.d15{background: darkslategray;}
+.d16{background: darkviolet;}
+.d17{background: deeppink;}
+.d18{background: dimgray;}
+.d19{background: dodgerblue;}
+.d20{background: firebrick;}
+.d21{background: gold;}
+.d22{background: green;}
+.d23{background: goldenrod;}
+.d24{background: hotpink;}
+.d25{background: indigo;}
+.d26{background: khaki;}
+.d27{background: lawngreen;}
+.d28{background: lightsalmon;}
+.d29{background: mediumaquamarine;}
